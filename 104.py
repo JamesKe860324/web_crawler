@@ -1,4 +1,4 @@
-#擷取104銀行關鍵字前10頁的職稱、職稱連結、公司名字、公司連結、薪資、位置、
+# 擷取104銀行關鍵字前10頁的職稱、職稱連結、公司名字、公司連結、薪資、位置、
 # 工作經歷要求、學歷要求，寫進DB裡
 from base64 import encode
 from pymysql import connections
