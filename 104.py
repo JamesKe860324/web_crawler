@@ -25,8 +25,8 @@ keyword = "python"
 
 connection = pymysql.connect(
     host ='localhost',
-    user = 'happy52lin40',
-    password = '52linc851211',
+    user = '',
+    password = '',
     database = '104_informations',
     charset = 'utf8mb4',
     cursorclass = pymysql.cursors.DictCursor
